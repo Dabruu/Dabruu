@@ -2,11 +2,11 @@
 <h3 align="center">When the clock hits 12, I pickup my guitar and happen to have a story to tell...</h3>
 <img align="right" alt="guitar" width="200" src="https://i.pinimg.com/originals/f5/53/53/f55353399d2599fa3a00be2dcaddb42f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabruu&label=Profile%20views&color=0e75b6&style=flat" alt="dabruu" /> </p>
-<img align="right" alt="guitar" width="200" src="https://i.pinimg.com/originals/f5/53/53/f55353399d2599fa3a00be2dcaddb42f.gif">
+
 - 📫 How to reach me **pvaibhav832@gmail.com**
 
 - ⚡ Fun fact **People be dating and getting into relationships, and here I am, too busy playing my guitar and writing songs that I know I'll probably forget by tomorrow.**
-
+<img align="left" alt="guitar" width="200" src="https://i.pinimg.com/originals/f5/53/53/f55353399d2599fa3a00be2dcaddb42f.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/dabruu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dabruu" height="30" width="40" /></a>
