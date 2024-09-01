@@ -6,7 +6,7 @@
 - 📫 How to reach me **pvaibhav832@gmail.com**
 
 - ⚡ Fun fact **People be dating and getting into relationships, and here I am, too busy playing my guitar and writing songs that I know I'll probably forget by tomorrow.**
-<img align="left" alt="guitar" width="200" src="https://i.pinimg.com/originals/f5/53/53/f55353399d2599fa3a00be2dcaddb42f.gif">
+<img align="left" alt="guitar" width="200" src="[https://i.pinimg.com/originals/f5/53/53/f55353399d2599fa3a00be2dcaddb42f.gif](https://media4.giphy.com/media/xT3i1kd2xAVSKslyh2/giphy.gif?cid=6c09b95294m79xhiq6jnta3j9brmkjtnnt0d7cnurq6jyex7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/dabruu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dabruu" height="30" width="40" /></a>
