@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patel</h1>
 <h3 align="center">When the clock hits 12, I pickup my guitar and happen to have a story to tell...</h3>
-<img align="right" alt="guitar" width="400" src="![image](https://github.com/user-attachments/assets/4afd4d0a-405c-4ec6-aa3f-ac9e08c7f9de)
+<img align="right" alt="guitar" width="500" src="![image](https://github.com/user-attachments/assets/4afd4d0a-405c-4ec6-aa3f-ac9e08c7f9de)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabruu&label=Profile%20views&color=0e75b6&style=flat" alt="dabruu" /> </p>
 
